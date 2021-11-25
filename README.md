@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 📚 Atualmente estou estudando JavaScript
+- 📚 Atualmente estudando JavaScript
 
 <div align="left">
   <a href="https://github.com/iasmin-dev">
