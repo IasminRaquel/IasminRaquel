@@ -1,3 +1,3 @@
 ### Olá! 👋
 
-- Atualmente estudando Python 🐍
+
